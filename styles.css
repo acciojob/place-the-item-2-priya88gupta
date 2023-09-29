@@ -3,7 +3,7 @@
 	display:flex;
 	justify-content:center;
 	align-item:center;
-	flex-wrap:nowrap;
+	flex-wrap:wrap;
 	font-size:40px;
 }
 .item-3{
@@ -24,7 +24,7 @@
 .holder2{
 	display:flex;
 	justify-content:center;
-	flex-wrap:nowrap;
+	flex-wrap:wrap;
 	align-item:center;
 }
 .grid-item-1{
